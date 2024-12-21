@@ -1,2 +1,4 @@
 # DMtools
-Tools for a dungeon master
+Tools for a dungeon master.
+
+- Random short descriptions in combat.
